@@ -16,4 +16,3 @@ let isLoggedin = false
 // none Primiteve data type 
 
 // object 
-// arrays

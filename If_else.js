@@ -35,7 +35,6 @@ else {
 
 // Switch Case 
 let activity = "Get up";
-activity = "Breakfast"
 
 switch (activity) {
     case "Get up":
